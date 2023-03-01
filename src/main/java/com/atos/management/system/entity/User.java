@@ -61,4 +61,9 @@ public class User {
 
 	private List<Role> roles = new ArrayList<>();
 
+	public void setRoles(List<Role> asList) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
